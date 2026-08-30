@@ -5,8 +5,7 @@
 🚀 I have 1 year of work experience and I'm continuously improving my technical skills.<br/>
 
 🌱 Currently learning and exploring:<br/>
-- HTML & CSS<br/>
-- SQL<br/>
+- AWS<br/>
 - Python<br/>
 - AI & Machine Learning<br/>
 
